@@ -1,0 +1,5 @@
+devices:
+  "client": "172.29.242.60"
+  "client2": "172.29.242.60"
+  "server": "ase-a38114.ece.utexas.edu"
+server: "server"
